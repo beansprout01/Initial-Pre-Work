@@ -1,0 +1,12 @@
+/* I learned how to make elements inherit properties from the body style */
+
+<style>
+  body {
+    font-family: monospace;
+    background-color: black;
+    color: green;
+  }
+
+</style>
+
+<h1>Hello World</h1>
