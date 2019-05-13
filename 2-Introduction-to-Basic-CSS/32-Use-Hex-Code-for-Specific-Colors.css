@@ -1,0 +1,7 @@
+/* I learned that you can use hexadecimals to represent specific colors in CSS */
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>
