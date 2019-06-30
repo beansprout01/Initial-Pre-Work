@@ -4,36 +4,36 @@
 
 ## When we hit https://www.techtonic.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions in general terms/steps.
 
-put your answer here
+First, the client sends a query to the server and the server sends back a webpage relevant to the query.
 
 ## From start to finish, how does data reach you to be rendered in the browser?
 
-put your answer here
+The server processes the client's query and sends the relevant information through the internet.
 
 ## What code is rendered in the browser?
 
-put your answer here
+HTML.
 
 ## What is the server-side code’s main function?
 
-put your answer here
+Gathering and formatting data to send to the client.
 
 ## What is the client-side code’s main function?
 
-put your answer here
+Rendering data.
 
 ## What is runtime?
 
-put your answer here
+The period of time where the application is actively processing information.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
-put your answer here
+1 per client.
 
 ## How many instances of the server-side code are available at any given time?
 
-put your answer here
+1 per server (virtual and hardware).
 
 ## How many instances of the databases connected to the server application are created?
 
-put your answer here
+1 instance of each database.
